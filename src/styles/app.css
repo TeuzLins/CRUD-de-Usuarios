@@ -1,0 +1,2 @@
+.link { text-decoration: underline; cursor: pointer; }
+.form-error { color: var(--danger); min-height: 22px; }

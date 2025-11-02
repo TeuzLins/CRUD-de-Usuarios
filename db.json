@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "role": "admin",
+      "createdAt": "2024-05-12T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Bruno Silva",
+      "email": "bruno@example.com",
+      "role": "editor",
+      "createdAt": "2024-07-21T11:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Carla Mendes",
+      "email": "carla@example.com",
+      "role": "user",
+      "createdAt": "2024-08-01T09:10:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Diego Pereira",
+      "email": "diego@example.com",
+      "role": "user",
+      "createdAt": "2024-08-25T13:45:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Elaine Costa",
+      "email": "elaine@example.com",
+      "role": "editor",
+      "createdAt": "2024-09-03T16:20:00.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Fabio Souza",
+      "email": "fabio@example.com",
+      "role": "user",
+      "createdAt": "2024-09-17T08:05:00.000Z"
+    },
+    {
+      "id": 7,
+      "name": "Gabriela Nunes",
+      "email": "gabriela@example.com",
+      "role": "admin",
+      "createdAt": "2024-10-01T12:12:00.000Z"
+    },
+    {
+      "name": "teuz",
+      "email": "yrafael500@gmail.com",
+      "role": "editor",
+      "createdAt": "2025-11-02T00:08:24.454Z",
+      "id": 8
+    }
+  ]
+}
