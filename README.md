@@ -68,24 +68,3 @@ Ou execute tudo junto:
 npm run dev:all
 ```
 
-## Publicar no GitHub
-```
-git init
-git add .
-git commit -m "CRUD de usuários (Vite + JSON Server)"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/SEU_REPO.git
-git push -u origin main
-```
-
-Com GitHub CLI:
-```
-gh repo create SEU_REPO --source . --public --push
-```
-
-## Testes
-```
-npm run test
-```
-
-Caso precise, ajuste `db.json` com seus dados iniciais. O delay da API é simulado para aproximar uma experiência real.
